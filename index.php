@@ -91,7 +91,7 @@
           <div class="col-lg-6">
             <!-- Mashead text and app badges-->
             <div class="mb-5 mb-lg-0 text-center text-lg-start">
-              <h1 class="display-1 lh-1 mb-3">Work with no limitations.</h1>
+              <h1 class="display-1 lh-1 mb-3">Render your skill and earn money!</h1>
               <p class="lead fw-normal text-muted mb-5">
                 Be part of the growing family of Hanas and take part of our
                 journey together.
