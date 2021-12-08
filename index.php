@@ -39,7 +39,11 @@
       id="mainNav"
     >
       <div class="container px-5">
-        <img src="assets/img/Hanas.png" alt="" />
+        <img
+          style="height: 10vh; object-fit: cover"
+          src="assets/img/Hanas.png"
+          alt=""
+        />
         <button
           class="navbar-toggler"
           type="button"

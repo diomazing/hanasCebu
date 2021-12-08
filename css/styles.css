@@ -11710,7 +11710,7 @@ section {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #fff;
+  background: -webkit-linear-gradient(#e69fb4, #ff5e84);
 }
 #mainNav .navbar-brand {
   font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -11730,10 +11730,10 @@ section {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #6c757d;
+  color: #f0f0f0;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #2937f0;
+  color: #f0f0f0;
 }
 
 /*!
