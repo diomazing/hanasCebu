@@ -62,7 +62,7 @@
               <a class="nav-link me-lg-3" href="#features">Features</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="https://play.google.com/store/apps/details?id=com.hanas.hanasApp">Download</a>
+              <a class="nav-link me-lg-3" href="https://play.google.com/store/apps/details?id=com.hanas.hanasApp">Download </a>
             </li>
           </ul>
           <!-- <button
