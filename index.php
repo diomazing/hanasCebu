@@ -62,7 +62,7 @@
               <a class="nav-link me-lg-3" href="#features">Features</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link me-lg-3" href="#download">Download</a>
+              <a class="nav-link me-lg-3" href="https://play.google.com/store/apps/details?id=com.hanas.hanasApp">Download</a>
             </li>
           </ul>
           <!-- <button
@@ -97,7 +97,7 @@
                 journey together.
               </p>
               <div class="d-flex flex-column flex-lg-row align-items-center">
-                <a class="me-lg-3 mb-4 mb-lg-0" href="#!"
+                <a class="me-lg-3 mb-4 mb-lg-0" href="https://play.google.com/store/apps/details?id=com.hanas.hanasApp"
                   ><img
                     class="app-badge"
                     src="assets/img/google-play-badge.svg"
@@ -391,7 +391,7 @@
             justify-content-center
           "
         >
-          <a class="me-lg-3 mb-4 mb-lg-0" href="#!"
+          <a class="me-lg-3 mb-4 mb-lg-0" href="https://play.google.com/store/apps/details?id=com.hanas.hanasApp"
             ><img
               class="app-badge"
               src="assets/img/google-play-badge.svg"
